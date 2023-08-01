@@ -23,9 +23,9 @@ public class Cat
     {
         Console.Write("Is Sleeping");
     }
-    public void Eat()
+    public void Eat(string food)
     {
-        Console.Write("Is Eating");
+        Console.Write("Is Eating " + food);
     }
 
 }

@@ -6,7 +6,7 @@ class program
         Cat pedro = new Cat();
         pedro._name = "Pedro";
         pedro._age = 5;
-        pedro.Eat();
+        pedro.Eat("Fish");
 
         Cat monnie = new Cat();
         string name = monnie._name;

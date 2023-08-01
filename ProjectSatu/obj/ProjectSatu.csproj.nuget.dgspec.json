@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 4\\ProjectSatu\\ProjectSatu.csproj": {}
+    "d:\\RYE_Bootcamp\\Bootcamp\\ProjectSatu\\ProjectSatu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 4\\ProjectSatu\\ProjectSatu.csproj": {
+    "d:\\RYE_Bootcamp\\Bootcamp\\ProjectSatu\\ProjectSatu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 4\\ProjectSatu\\ProjectSatu.csproj",
+        "projectUniqueName": "d:\\RYE_Bootcamp\\Bootcamp\\ProjectSatu\\ProjectSatu.csproj",
         "projectName": "ProjectSatu",
-        "projectPath": "C:\\Users\\Batch 4\\ProjectSatu\\ProjectSatu.csproj",
+        "projectPath": "d:\\RYE_Bootcamp\\Bootcamp\\ProjectSatu\\ProjectSatu.csproj",
         "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 4\\ProjectSatu\\obj\\",
+        "outputPath": "d:\\RYE_Bootcamp\\Bootcamp\\ProjectSatu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
