@@ -15,7 +15,7 @@ class Program
 
         cat.Eat();
         cat.Eat("fish", 5, "cooked");
-        cat.Eat("Meat");
+        bird.Eat("Meat");
 
         kangaroo.Eat("apple", 2);
         animal.Eat();
