@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTiga", "ProjectTiga\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{9F20684E-D181-413F-AD98-0CEEBC002ED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEmpat", "ProjectEmpat\ProjectEmpat.csproj", "{8F07FC0E-BD4A-430E-80D6-962041CAD8F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorph", "Polymorph\Polymorph.csproj", "{C776E872-DFDE-404D-A456-69C88818F71A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{9F20684E-D181-413F-AD98-0CEEBC002ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F20684E-D181-413F-AD98-0CEEBC002ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F20684E-D181-413F-AD98-0CEEBC002ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F07FC0E-BD4A-430E-80D6-962041CAD8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F07FC0E-BD4A-430E-80D6-962041CAD8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F07FC0E-BD4A-430E-80D6-962041CAD8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F07FC0E-BD4A-430E-80D6-962041CAD8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C776E872-DFDE-404D-A456-69C88818F71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C776E872-DFDE-404D-A456-69C88818F71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C776E872-DFDE-404D-A456-69C88818F71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C776E872-DFDE-404D-A456-69C88818F71A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
