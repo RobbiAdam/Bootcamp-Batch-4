@@ -28,3 +28,18 @@ d:\RYE_Bootcamp\Bootcamp\ProjectTiga\obj\Debug\net7.0\refint\ProjectTiga.dll
 d:\RYE_Bootcamp\Bootcamp\ProjectTiga\obj\Debug\net7.0\ProjectTiga.pdb
 d:\RYE_Bootcamp\Bootcamp\ProjectTiga\obj\Debug\net7.0\ProjectTiga.genruntimeconfig.cache
 d:\RYE_Bootcamp\Bootcamp\ProjectTiga\obj\Debug\net7.0\ref\ProjectTiga.dll
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\bin\Debug\net7.0\ProjectTiga.exe
+d:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\bin\Debug\net7.0\ProjectTiga.deps.json
+d:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\bin\Debug\net7.0\ProjectTiga.runtimeconfig.json
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\bin\Debug\net7.0\ProjectTiga.dll
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\bin\Debug\net7.0\ProjectTiga.pdb
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ProjectTiga.csproj.AssemblyReference.cache
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ProjectTiga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ProjectTiga.AssemblyInfoInputs.cache
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ProjectTiga.AssemblyInfo.cs
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ProjectTiga.csproj.CoreCompileInputs.cache
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ProjectTiga.dll
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\refint\ProjectTiga.dll
+D:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ProjectTiga.pdb
+d:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ProjectTiga.genruntimeconfig.cache
+d:\Documents\Project Document\Bootcamp-Batch-4\ProjectTiga\obj\Debug\net7.0\ref\ProjectTiga.dll
