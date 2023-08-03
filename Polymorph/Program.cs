@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Animal animal= new Animal();
-        Cat cat= new Cat();
+        Animal animal = new Animal();
+        Cat cat = new Cat();
         Bird bird = new Bird();
         Kangaroo kangaroo = new Kangaroo();
 

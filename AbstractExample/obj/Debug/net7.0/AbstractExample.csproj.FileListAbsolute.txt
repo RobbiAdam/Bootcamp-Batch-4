@@ -1,0 +1,5 @@
+d:\RYE_Bootcamp\Bootcamp\AbstractExample\obj\Debug\net7.0\AbstractExample.csproj.AssemblyReference.cache
+d:\RYE_Bootcamp\Bootcamp\AbstractExample\obj\Debug\net7.0\AbstractExample.GeneratedMSBuildEditorConfig.editorconfig
+d:\RYE_Bootcamp\Bootcamp\AbstractExample\obj\Debug\net7.0\AbstractExample.AssemblyInfoInputs.cache
+d:\RYE_Bootcamp\Bootcamp\AbstractExample\obj\Debug\net7.0\AbstractExample.AssemblyInfo.cs
+d:\RYE_Bootcamp\Bootcamp\AbstractExample\obj\Debug\net7.0\AbstractExample.csproj.CoreCompileInputs.cache

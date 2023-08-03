@@ -17,6 +17,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTiga", "ProjectTiga\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationTwo", "EncapsulationTwo\EncapsulationTwo.csproj", "{B1BE1167-D0D8-478B-B316-F9A592E4C560}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "Abstract\Abstract.csproj", "{553D6243-4F5C-4E59-96CE-DC153026A6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractExample", "AbstractExample\AbstractExample.csproj", "{58A43396-FD65-4FCF-8CF4-72C9A385F2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "InterfaceExample\InterfaceExample.csproj", "{FB75FCE8-47B6-4B74-9ECD-656F48D87371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{A61BD4E7-3D27-4A08-A01D-9664E58F75D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTwo", "InterfaceTwo\InterfaceTwo.csproj", "{F68EF9AB-9FF4-4A01-BF59-B18C73C5886D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExampleTwo", "InterfaceExampleTwo\InterfaceExampleTwo.csproj", "{6FE8A1A6-5B89-4E2E-BFF3-2FE65D648A16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSetExample", "GetSetExample\GetSetExample.csproj", "{E69262FD-9306-4A21-A2DC-6369A8675FFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +68,33 @@ Global
 		{B1BE1167-D0D8-478B-B316-F9A592E4C560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1BE1167-D0D8-478B-B316-F9A592E4C560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1BE1167-D0D8-478B-B316-F9A592E4C560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553D6243-4F5C-4E59-96CE-DC153026A6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553D6243-4F5C-4E59-96CE-DC153026A6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553D6243-4F5C-4E59-96CE-DC153026A6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553D6243-4F5C-4E59-96CE-DC153026A6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A43396-FD65-4FCF-8CF4-72C9A385F2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A43396-FD65-4FCF-8CF4-72C9A385F2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A43396-FD65-4FCF-8CF4-72C9A385F2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A43396-FD65-4FCF-8CF4-72C9A385F2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB75FCE8-47B6-4B74-9ECD-656F48D87371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB75FCE8-47B6-4B74-9ECD-656F48D87371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB75FCE8-47B6-4B74-9ECD-656F48D87371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB75FCE8-47B6-4B74-9ECD-656F48D87371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61BD4E7-3D27-4A08-A01D-9664E58F75D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61BD4E7-3D27-4A08-A01D-9664E58F75D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61BD4E7-3D27-4A08-A01D-9664E58F75D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61BD4E7-3D27-4A08-A01D-9664E58F75D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68EF9AB-9FF4-4A01-BF59-B18C73C5886D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68EF9AB-9FF4-4A01-BF59-B18C73C5886D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68EF9AB-9FF4-4A01-BF59-B18C73C5886D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68EF9AB-9FF4-4A01-BF59-B18C73C5886D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE8A1A6-5B89-4E2E-BFF3-2FE65D648A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE8A1A6-5B89-4E2E-BFF3-2FE65D648A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE8A1A6-5B89-4E2E-BFF3-2FE65D648A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE8A1A6-5B89-4E2E-BFF3-2FE65D648A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69262FD-9306-4A21-A2DC-6369A8675FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69262FD-9306-4A21-A2DC-6369A8675FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69262FD-9306-4A21-A2DC-6369A8675FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69262FD-9306-4A21-A2DC-6369A8675FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

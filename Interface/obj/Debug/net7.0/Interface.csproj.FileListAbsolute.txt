@@ -1,0 +1,15 @@
+d:\RYE_Bootcamp\Bootcamp\Interface\bin\Debug\net7.0\Interface.exe
+d:\RYE_Bootcamp\Bootcamp\Interface\bin\Debug\net7.0\Interface.deps.json
+d:\RYE_Bootcamp\Bootcamp\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+d:\RYE_Bootcamp\Bootcamp\Interface\bin\Debug\net7.0\Interface.dll
+d:\RYE_Bootcamp\Bootcamp\Interface\bin\Debug\net7.0\Interface.pdb
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\Interface.csproj.AssemblyReference.cache
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\Interface.dll
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\refint\Interface.dll
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\Interface.pdb
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+d:\RYE_Bootcamp\Bootcamp\Interface\obj\Debug\net7.0\ref\Interface.dll
