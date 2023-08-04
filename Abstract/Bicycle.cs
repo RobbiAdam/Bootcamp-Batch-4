@@ -5,9 +5,9 @@ public class Bicycle : Vehicle
     public override void GetData()
     {
         
-        Console.WriteLine("Bicycle has "  + GetSeat(_seat) + " Seat");
-        Console.WriteLine("Bicycle has "  + GetWheel(_wheel) + " WHeel");
-        Console.WriteLine("Bicycle ID is "  + GetId(_vehicleId));
+        Console.WriteLine("Bicycle has "  + _seat + " Seat");
+        Console.WriteLine("Bicycle has "  + _wheel + " WHeel");
+        Console.WriteLine("Bicycle ID is "  + _vehicleId);
        
     }
 

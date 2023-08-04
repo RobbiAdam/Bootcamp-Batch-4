@@ -5,7 +5,7 @@ public class Skateboard : Vehicle
     public override void GetData()
     {
 
-        Console.WriteLine("Skateboard has " + GetWheel(_wheel) + " WHeel");
+        Console.WriteLine("Skateboard has " + GetWheel(_wheel) + " Wheel");
         Console.WriteLine("Skateboard ID is " + GetId(_vehicleId));
 
     }
