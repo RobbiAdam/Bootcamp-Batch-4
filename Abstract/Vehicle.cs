@@ -11,9 +11,9 @@ public abstract class Vehicle
         _wheel = wheel;
         _vehicleId = vehicleId;
     }
-    public void HasData(int Seat, int wheel, int vehicleId)
+    public void HasData(int seat, int wheel, int vehicleId)
     {
-        _seat = Seat;
+        _seat = seat;
         _wheel = wheel;
         _vehicleId = vehicleId;
 

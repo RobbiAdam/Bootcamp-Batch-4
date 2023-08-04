@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RYE_Bootcamp\\Bootcamp\\AbstractExample\\AbstractExample.csproj",
+      "projectUniqueName": "d:\\RYE_Bootcamp\\Bootcamp\\AbstractExample\\AbstractExample.csproj",
       "projectName": "AbstractExample",
-      "projectPath": "D:\\RYE_Bootcamp\\Bootcamp\\AbstractExample\\AbstractExample.csproj",
+      "projectPath": "d:\\RYE_Bootcamp\\Bootcamp\\AbstractExample\\AbstractExample.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "D:\\RYE_Bootcamp\\Bootcamp\\AbstractExample\\obj\\",
+      "outputPath": "d:\\RYE_Bootcamp\\Bootcamp\\AbstractExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"

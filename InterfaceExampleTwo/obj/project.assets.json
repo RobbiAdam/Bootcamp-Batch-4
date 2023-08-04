@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RYE_Bootcamp\\Bootcamp\\InterfaceExampleTwo\\InterfaceExampleTwo.csproj",
+      "projectUniqueName": "d:\\RYE_Bootcamp\\Bootcamp\\InterfaceExampleTwo\\InterfaceExampleTwo.csproj",
       "projectName": "InterfaceExampleTwo",
-      "projectPath": "D:\\RYE_Bootcamp\\Bootcamp\\InterfaceExampleTwo\\InterfaceExampleTwo.csproj",
+      "projectPath": "d:\\RYE_Bootcamp\\Bootcamp\\InterfaceExampleTwo\\InterfaceExampleTwo.csproj",
       "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-      "outputPath": "D:\\RYE_Bootcamp\\Bootcamp\\InterfaceExampleTwo\\obj\\",
+      "outputPath": "d:\\RYE_Bootcamp\\Bootcamp\\InterfaceExampleTwo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
