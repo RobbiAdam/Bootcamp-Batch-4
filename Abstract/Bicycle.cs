@@ -2,13 +2,13 @@ namespace Abstract;
 
 public class Bicycle : Vehicle
 {
-    public override int GetData()
+    public override void GetData()
     {
         // Console.WriteLine(GetSeat(_seat));
         Console.WriteLine("Bicycle has "  + GetSeat(_seat) + " Seat");
         Console.WriteLine("Bicycle has "  + GetWheel(_wheel) + " WHeel");
         Console.WriteLine("Bicycle ID is "  + GetId(_vehicleId));
-        return _seat;
+        // return _seat;
     }
 
     public int GetSeat(int Seat)
