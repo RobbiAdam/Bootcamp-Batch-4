@@ -1,6 +1,6 @@
 namespace InterfaceTwo;
 
-public class HardDrive : Bank, ISaveData
+public class Safe : Bank, ISaveData
 {
     public void Save()
     {

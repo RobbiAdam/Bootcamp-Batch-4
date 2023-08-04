@@ -8,7 +8,7 @@ class Program
         bank.Save();
 
         Safe safe = new Safe();
-        safe.GetData("File");
+        safe.GetData(bank.HasData("satu juta rupiah"));
         safe.Load();
     }
 }

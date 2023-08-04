@@ -4,10 +4,8 @@ public class Skateboard : Vehicle
 {
     public override void GetData()
     {
-
-        Console.WriteLine("Skateboard has " + GetWheel(_wheel) + " Wheel");
-        Console.WriteLine("Skateboard ID is " + GetId(_vehicleId));
-
+        Console.WriteLine("Skateboard has " + _wheel + " Wheel");
+        Console.WriteLine("Skateboard ID is " + _vehicleId);
     }
 
 
