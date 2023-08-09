@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>EventHandler_DelegatePractice</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AccountOne.cs" />
+    <Compile Include="AccountTwo.cs" />
+    <Compile Include="FollowerOne.cs" />
+    <Compile Include="FollowerTwo.cs" />
+    <Compile Include="FollowerThree.cs" />
+    <Folder Include="Follower\" />
+  </ItemGroup>
+</Project>
