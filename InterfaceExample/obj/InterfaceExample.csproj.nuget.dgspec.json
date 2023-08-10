@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\RYE_Bootcamp\\Bootcamp\\InterfaceExample\\InterfaceExample.csproj": {}
+    "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\InterfaceExample\\InterfaceExample.csproj": {}
   },
   "projects": {
-    "d:\\RYE_Bootcamp\\Bootcamp\\InterfaceExample\\InterfaceExample.csproj": {
+    "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\InterfaceExample\\InterfaceExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\RYE_Bootcamp\\Bootcamp\\InterfaceExample\\InterfaceExample.csproj",
+        "projectUniqueName": "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\InterfaceExample\\InterfaceExample.csproj",
         "projectName": "InterfaceExample",
-        "projectPath": "d:\\RYE_Bootcamp\\Bootcamp\\InterfaceExample\\InterfaceExample.csproj",
-        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
-        "outputPath": "d:\\RYE_Bootcamp\\Bootcamp\\InterfaceExample\\obj\\",
+        "projectPath": "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\InterfaceExample\\InterfaceExample.csproj",
+        "packagesPath": "C:\\Users\\zweih\\.nuget\\packages\\",
+        "outputPath": "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\InterfaceExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zweih\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

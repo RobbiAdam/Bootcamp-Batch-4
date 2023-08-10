@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandler", "EventHandle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPublisher", "EventPublisher\EventPublisher.csproj", "{A0A81D29-BF3E-4984-8BDA-7392546A2116}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zDump", "zDump\zDump.csproj", "{61773834-9BEE-4B9A-911F-1511F861A807}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -204,5 +206,9 @@ Global
 		{A0A81D29-BF3E-4984-8BDA-7392546A2116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0A81D29-BF3E-4984-8BDA-7392546A2116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0A81D29-BF3E-4984-8BDA-7392546A2116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61773834-9BEE-4B9A-911F-1511F861A807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61773834-9BEE-4B9A-911F-1511F861A807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61773834-9BEE-4B9A-911F-1511F861A807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61773834-9BEE-4B9A-911F-1511F861A807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
