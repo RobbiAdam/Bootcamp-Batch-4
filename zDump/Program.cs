@@ -7,17 +7,20 @@ class Program
     static void Main()
     {
         Formula formula = new();
-        formula.FooBar(GetInput());
+        int _userInput = InputHandler.GetInput();
+        formula.FooBar(_userInput);
     }
-
-    static int GetInput()
+}
+static class InputHandler
+{
+    public static int GetInput()
     {
         while (true)
         {
             Console.Write("Enter a number: ");
-            string _userInput = Console.ReadLine();
+            string _input = Console.ReadLine();
 
-            if (int.TryParse(_userInput, out int number))
+            if (int.TryParse(_input, out int number))
             {
                 return number;
             }
