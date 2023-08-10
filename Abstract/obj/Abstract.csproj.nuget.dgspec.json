@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\Abstract\\Abstract.csproj": {}
+    "d:\\RYE_Bootcamp\\Bootcamp\\Abstract\\Abstract.csproj": {}
   },
   "projects": {
-    "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\Abstract\\Abstract.csproj": {
+    "d:\\RYE_Bootcamp\\Bootcamp\\Abstract\\Abstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\Abstract\\Abstract.csproj",
+        "projectUniqueName": "d:\\RYE_Bootcamp\\Bootcamp\\Abstract\\Abstract.csproj",
         "projectName": "Abstract",
-        "projectPath": "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\Abstract\\Abstract.csproj",
-        "packagesPath": "C:\\Users\\zweih\\.nuget\\packages\\",
-        "outputPath": "d:\\Documents\\Project Document\\Bootcamp-Batch-4\\Abstract\\obj\\",
+        "projectPath": "d:\\RYE_Bootcamp\\Bootcamp\\Abstract\\Abstract.csproj",
+        "packagesPath": "C:\\Users\\Batch 4\\.nuget\\packages\\",
+        "outputPath": "d:\\RYE_Bootcamp\\Bootcamp\\Abstract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zweih\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 4\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

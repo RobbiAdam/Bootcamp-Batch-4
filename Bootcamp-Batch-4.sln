@@ -69,6 +69,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPublisher", "EventPubl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zDump", "zDump\zDump.csproj", "{61773834-9BEE-4B9A-911F-1511F861A807}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerable-Example", "Enumerable-Example\Enumerable-Example.csproj", "{B8088600-8F07-4DCA-A77C-C53612EBADAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerable", "Enumerable\Enumerable.csproj", "{EA0E5CA5-BE4D-4444-9826-0493113C7019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverload", "OperatorOverload\OperatorOverload.csproj", "{968518AE-6DCD-404A-8E8C-382A1CB836B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadPractice", "OperatorOverloadPractice\OperatorOverloadPractice.csproj", "{CD6806D8-64C0-44D1-A558-0BD3513D801D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadExampleTwo", "OperatorOverloadExampleTwo\OperatorOverloadExampleTwo.csproj", "{CF563540-2F82-406D-9708-A2ED01703C3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -210,5 +220,25 @@ Global
 		{61773834-9BEE-4B9A-911F-1511F861A807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61773834-9BEE-4B9A-911F-1511F861A807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61773834-9BEE-4B9A-911F-1511F861A807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8088600-8F07-4DCA-A77C-C53612EBADAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8088600-8F07-4DCA-A77C-C53612EBADAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8088600-8F07-4DCA-A77C-C53612EBADAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8088600-8F07-4DCA-A77C-C53612EBADAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0E5CA5-BE4D-4444-9826-0493113C7019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0E5CA5-BE4D-4444-9826-0493113C7019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0E5CA5-BE4D-4444-9826-0493113C7019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0E5CA5-BE4D-4444-9826-0493113C7019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968518AE-6DCD-404A-8E8C-382A1CB836B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968518AE-6DCD-404A-8E8C-382A1CB836B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968518AE-6DCD-404A-8E8C-382A1CB836B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968518AE-6DCD-404A-8E8C-382A1CB836B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6806D8-64C0-44D1-A558-0BD3513D801D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6806D8-64C0-44D1-A558-0BD3513D801D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6806D8-64C0-44D1-A558-0BD3513D801D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6806D8-64C0-44D1-A558-0BD3513D801D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF563540-2F82-406D-9708-A2ED01703C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF563540-2F82-406D-9708-A2ED01703C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF563540-2F82-406D-9708-A2ED01703C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF563540-2F82-406D-9708-A2ED01703C3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -3,7 +3,7 @@ namespace EventhandlerWDelegate;
 class AccountOne
 {
     
-    public string Name { get; set; }
+    public string name { get; set; }
 
     public event EventHandler<string> tweetNotif;
 

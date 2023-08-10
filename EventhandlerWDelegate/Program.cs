@@ -8,7 +8,7 @@ class Program
         
         // AccountOne watsonBakery = new();
         FollowerOne ery = new();
-
+        biden.name = "Joe Biden";
         biden.tweetNotif += ery.OnTweetNotified;
 
         biden.SendNotification("Biden Blast");
