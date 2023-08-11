@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadPractice", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadExampleTwo", "OperatorOverloadExampleTwo\OperatorOverloadExampleTwo.csproj", "{CF563540-2F82-406D-9708-A2ED01703C3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equals==", "Equals==\Equals==.csproj", "{34CB8A77-EC42-44A4-8E93-51D7632D7410}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -240,5 +242,9 @@ Global
 		{CF563540-2F82-406D-9708-A2ED01703C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF563540-2F82-406D-9708-A2ED01703C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF563540-2F82-406D-9708-A2ED01703C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34CB8A77-EC42-44A4-8E93-51D7632D7410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CB8A77-EC42-44A4-8E93-51D7632D7410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CB8A77-EC42-44A4-8E93-51D7632D7410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CB8A77-EC42-44A4-8E93-51D7632D7410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
