@@ -8,6 +8,6 @@
 
 		ToyBox<string> stringGenericClass = new ToyBox<string>("Hello");
 		stringGenericClass.ToyBoxMethod("World");
-		Console.WriteLine($"Nilai Mainan: {result}");
+		Console.WriteLine($"Nilai Mainan: {stringGenericClass}");
 	}
 }
