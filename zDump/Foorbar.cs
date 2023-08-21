@@ -1,44 +1,25 @@
-namespace Foobarspace;
-
-public class Formula : IFoobar
+public delegate void NewMemberAddedDelegate(string memberName);
+class NewMember
 {
-    string _result;
-    int _foo = 3;
-    int _bar = 5;
+    public NewMemberAddedDelegate NewMemberAdded;
 
-    public void GetFooBar(int x)
+    public void AddMember(string memberName)
     {
-        _result = CheckFooBar(x);
+        NewMemberAdded?.Invoke(memberName);
     }
-    public string GetFooBarResult()
+}
+class Room
+{
+    public void RoomPrepared(string memberName)
     {
-        return _result;
+        Console.WriteLine($"A room is prepared for {memberName}");
     }
+}
 
-    private string CheckFooBar(int x)
+class Welcome
+{
+    public void WelcomeMember(string memberName)
     {
-        if (DivisibleByBoth(x))
-        {
-            return "Foobar";
-        }
-        if (DivisibleBy(_foo, x))
-        {
-            return "Foo";
-        }
-        if (DivisibleBy(_bar, x))
-        {
-            return "Bar";
-        }
-        return x.ToString();
-    }
-
-    private bool DivisibleBy(int x, int number)
-    {
-        return number % x == 0;
-    }
-
-    private bool DivisibleByBoth(int number)
-    {
-        return DivisibleBy(3, number) && DivisibleBy(5, number);
+        Console.WriteLine($"Welcome to Hotel {memberName}");
     }
 }

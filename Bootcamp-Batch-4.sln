@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equals==", "Equals==\Equals
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{B9BBE605-76A1-4C54-8157-CD0BB3E3CAC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zDump2", "zDump2\zDump2.csproj", "{09D3B850-D1CD-4A59-B1DB-F54B57958CC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -252,5 +254,9 @@ Global
 		{B9BBE605-76A1-4C54-8157-CD0BB3E3CAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9BBE605-76A1-4C54-8157-CD0BB3E3CAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9BBE605-76A1-4C54-8157-CD0BB3E3CAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D3B850-D1CD-4A59-B1DB-F54B57958CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D3B850-D1CD-4A59-B1DB-F54B57958CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D3B850-D1CD-4A59-B1DB-F54B57958CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D3B850-D1CD-4A59-B1DB-F54B57958CC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

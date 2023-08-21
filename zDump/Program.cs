@@ -1,41 +1,25 @@
-﻿using Foobarspace;
-
-interface IFoobar
+﻿enum DaysOfWeek
 {
-    void GetFooBar(int x);
-    string GetFooBarResult();
+    Sunday,
+    Monday,
+    Tuesday,
+    Wednesday,
+    Thursday,
+    Friday,
+    Saturday
 }
+
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        Formula formula = new();
+        DaysOfWeek today = DaysOfWeek.Wednesday;
 
-        formula.GetFooBar(5);
-        Console.WriteLine(formula.GetFooBarResult());
+        Console.WriteLine("Today is: " + today); // Outputs "Today is: Wednesday"
+
+        if (today == DaysOfWeek.Wednesday)
+        {
+            Console.WriteLine("It's the middle of the week!");
+        }
     }
 }
-
-        // int _userInput = InputHandler.GetInput();
-        // formula.FooBar(_userInput);
-// static class InputHandler
-// {
-//     public static int GetInput()
-//     {
-//         while (true)
-//         {
-//             Console.Write("Enter a number: ");
-//             string _input = Console.ReadLine();
-
-//             if (int.TryParse(_input, out int number))
-//             {
-//                 return number;
-//             }
-//             else
-//             {
-//                 Console.WriteLine("Invalid input. Please enter a valid number !");
-//             }
-
-//         }
-//     }
-// }
